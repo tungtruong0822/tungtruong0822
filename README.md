@@ -9,7 +9,7 @@ I do this because I love helping businesses showcase their full potential to the
 * 🌍  I'm based in Vietnam
 
 * ✉️  You can contact me at [tungtruong0822@gmai.com](mailto:tungtruong0822@gmai.com)
-* 🧠  I'm learning Advanced React Native
+* 🧠  I'm learning Advanced Android Mobile
 * 🤝  I'm open to collaborating on Full Stack Web Developement
 
 <a href="https://www.github.com/tungtruong0822" target="_blank" rel="noreferrer"><img
